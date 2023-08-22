@@ -9,9 +9,9 @@
         "Telegram Bot",
         "NacBots"
     ],
-    "website": "https://t.me/NacBots",
-    "repository": "https://github.com/nacbots/BroadcastBot",
-    "success_url": "https://github.com/nacbots",
+    "website": "https://t.me/speedy208",
+    "repository": "https://github.com/Darklightning2008/BroadcastBot",
+    "success_url": "https://github.com/Darklightning2008",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
